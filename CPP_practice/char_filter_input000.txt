@@ -1,0 +1,6 @@
+2 Hello, world!
+0 $Mamma
+1 $Mamma
+3 $Mamma
+3 $MammaMamma
+
